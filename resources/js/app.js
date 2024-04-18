@@ -1,2 +1,2 @@
-import { Tooltip,Ripple, initTWE } from "tw-elements";
-initTWE({ Tooltip,Ripple })
+import { Tooltip,Ripple,Collapse, initTWE } from "tw-elements";
+initTWE({ Tooltip,Collapse,Ripple })
